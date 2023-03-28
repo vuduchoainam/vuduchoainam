@@ -1,4 +1,4 @@
-<h1>👋 Hi, I’m @vuduchoainam</h1>
+<h1>👋 Hi, My name is Vũ Đức Hoài Nam</h1>
 
 <br />
 <p align="center">
@@ -6,11 +6,17 @@
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=vuduchoainam&theme=github-dark-blue&hide_border=true" />
     </a>
 </p>
-<h1>📊GitHub Stats</h1>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=vuduchoainam&theme=dracula&hide_border=true&include_all_commits=false&count_private=false" height="128">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vuduchoainam&theme=dracula&hide_border=true" height="128">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vuduchoainam&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="128">
+<p align = "center">
+      
 </p>
-<img src="https://komarev.com/ghpvc/?username=vuduchoainam&label=Views&color=ff79c6&style=for-the-badge">
 
+
+
+## 🏆 Github Trophies
+![](https://github-profile-trophy.vercel.app/?username=vuduchoainam&theme=dracula&no-frame=true&column=4&margin-w=15)
+
+## 👨‍💻 Github Top Used Languages 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vuduchoainam&theme=dracula&include_all_commits=false&count_private=false&layout=compact)
+
+## Badges
+![](https://komarev.com/ghpvc/?username=vuduchoainam&color=green)
