@@ -14,6 +14,8 @@
 
 ## 🏆 Github Trophies
 ![](https://github-profile-trophy.vercel.app/?username=vuduchoainam&theme=dracula&no-frame=true&column=4&margin-w=15)
+
+## Github Stats
 ![](https://github-readme-stats.vercel.app/api?username=vuduchoainam&hide=contribs,prs&theme=vue)
 
 ## 👨‍💻 Github Top Used Languages 
