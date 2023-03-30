@@ -3,7 +3,7 @@
 <br />
 <p align="center">
       <a href="https://github.com/vuduchoainam">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=vuduchoainam&theme=github-dark-blue&hide_border=true" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=vuduchoainam&theme=prussian&hide_border=true" />
     </a>
 </p>
 <p align = "center">
