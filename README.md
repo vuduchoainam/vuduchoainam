@@ -27,5 +27,3 @@
       </a>
 </p>
             
-## Badges
-![](https://komarev.com/ghpvc/?username=vuduchoainam&color=green)
