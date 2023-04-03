@@ -1,4 +1,4 @@
-<h1>👋 Hi, My name is Vũ Đức Hoài Nam</h1>
+<h1>👋 Hi, My name is Vu Duc Hoai Nam</h1>
 
 <p>
       <a href="https://github.com/vuduchoainam">
