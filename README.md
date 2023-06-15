@@ -26,6 +26,5 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vuduchoainam&theme=tokyonight&include_all_commits=false&count_private=false&layout=compact" />
       </a>
 </p>
-## 📊 Github Stats
-![](https://komarev.com/ghpvc/?username=vuduchoainam&color=green)
+
             
